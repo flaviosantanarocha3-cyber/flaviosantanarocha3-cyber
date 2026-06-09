@@ -37,24 +37,11 @@ Sou um desenvolvedor focado em construir soluções organizadas e eficientes. Bu
 
 ### Frontend
 
-<p align="left">
-  <a>
-    <img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" alt="HTML" width="50" height="50" />
-  </a>
-  <a>
-    <img src="https://img.icons8.com/?size=100&id=YjeKwnSQIBUq&format=png&color=000000" alt="CSS" width="50" height="50" />
-  </a>
-  <a>
-    <img src="https://img.shields.io/badge/TikTok-@OREIDOSITES-000000?style=for-the-badge&logo=tiktok" />
-  </a>
-  <a>
-    <img src="https://img.icons8.com/?size=100&id=k0mhEXozIpG1&format=png&color=000000" alt="Javascript" width="50" height="50" />
-  </a>
-
-
-<img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" alt="HTML" width="50" height="50" />
-<img src="https://img.icons8.com/?size=100&id=YjeKwnSQIBUq&format=png&color=000000" alt="CSS" width="50" height="50" />
-<img src="https://img.icons8.com/?size=100&id=k0mhEXozIpG1&format=png&color=000000" alt="Javascript" width="50" height="50" />
+<p align = "left">
+     <img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" alt="HTML" width="50" height="50" />
+     <img src="https://img.icons8.com/?size=100&id=YjeKwnSQIBUq&format=png&color=000000" alt="CSS" width="50" height="50" />
+     <img src="https://img.icons8.com/?size=100&id=k0mhEXozIpG1&format=png&color=000000" alt="Javascript" width="50" height="50" />
+</p>
 
 ### Backend
 
@@ -63,11 +50,11 @@ Sou um desenvolvedor focado em construir soluções organizadas e eficientes. Bu
 <img src="https://img.icons8.com/?size=100&id=fYgHk9PCZQly&format=png&color=000000" alt="MySQL" width="40" height="40" />
 
 ### Ferramentas.
-
-<img src="https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=000000" alt="nodejs" width="50" height="50" />
-<img src="https://img.icons8.com/?size=100&id=OrZMxhqm7nsr&format=png&color=000000" alt="MySQL" width="50" height="50" />
-<img src="https://img.icons8.com/?size=100&id=11400&format=png&color=000000" alt="Banco de dados" width="50" height="50" />
-
+<p align = " left">
+   <img src="https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=000000" alt="nodejs" width="50" height="50" />
+   <img src="https://img.icons8.com/?size=100&id=OrZMxhqm7nsr&format=png&color=000000" alt="MySQL" width="50" height="50" />
+   <img src="https://img.icons8.com/?size=100&id=11400&format=png&color=000000" alt="Banco de dados" width="50" height="50" />
+</p>
 
 ## 📊 GitHub Stats
 
