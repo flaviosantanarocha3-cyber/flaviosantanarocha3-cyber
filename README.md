@@ -47,7 +47,7 @@ Sou um desenvolvedor focado em construir soluções organizadas e eficientes. Bu
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-<img src="https://img.icons8.com/?size=100&id=fYgHk9PCZQly&format=png&color=000000" alt="MySQL" width="40" height="40" />
+<img src="https://img.icons8.com/?size=100&id=GPfHz0SM85FX&format=png&color=000000" alt="java" width="40" height="40" />
 
 ### Ferramentas.
 <p align = " left">
